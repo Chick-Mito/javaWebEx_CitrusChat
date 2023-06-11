@@ -8,3 +8,10 @@
 + 可以实现私人聊天，用户可以选择某个其他用户，单独发送信息。
 + 服务器能够群发系统消息，能够强行让某些用户下线。
 + 客户端的上线下线要求能够在其他客户端上面实时刷新。
+
+Server：
+![image](https://github.com/Chick-Mito/javaWebEx_CitrusChat/assets/63236457/8971f393-395e-4d08-b60e-c8dbd84ff57c)
+
+Client：
+![image](https://github.com/Chick-Mito/javaWebEx_CitrusChat/assets/63236457/7a590128-3a86-45f2-ad98-f72bcae7754a)
+![image](https://github.com/Chick-Mito/javaWebEx_CitrusChat/assets/63236457/ae0f4837-869f-4429-ac60-9284efb4b619)
